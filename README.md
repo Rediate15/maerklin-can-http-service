@@ -19,9 +19,9 @@ A collection of micro services, scripts and demos revolving around the Märklin 
 ## Installation
 1. Clone the repository
 ```sh
-git clone https://github.com/data-niklas/maerklin-can-http-service.git
+git clone https://github.com/Rediate15/maerklin-can-http-service.git
 # or
-git clone git@github.com:data-niklas/maerklin-can-http-service.git
+git clone git@github.com:Rediate15/maerklin-can-http-service.git
 ```
 2. Create a Python virtual environment
 ```sh
